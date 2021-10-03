@@ -1,0 +1,10 @@
+setup.py
+sacumen_lib/__init__.py
+sacumen_lib/myfunction.py
+sacumen_lib.egg-info/PKG-INFO
+sacumen_lib.egg-info/SOURCES.txt
+sacumen_lib.egg-info/dependency_links.txt
+sacumen_lib.egg-info/requires.txt
+sacumen_lib.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py
